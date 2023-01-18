@@ -19,3 +19,4 @@ In opdracht 4 wordt opnieuw OpenGL gebruikt om een kubus te tekenen en te projec
 
 ### Eindopdracht
 
+In de eindopdracht moet OpenGL weer gebruikt worden. Ik heb een dobbelsteen gemaakt. Dit is een kubus met punten. Deze kubus draait een random aantal keer.
