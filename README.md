@@ -7,6 +7,7 @@ Indrukwekkende computer graphics zijn de basis van veel computerspellen, maar zi
 ## Opdrachten
 ### Opdracht 1
 Opdracht 1 is het maken van een animatie. Deze heb ik gemaakt in Scratch, en zal ik hier niet bewaren.
+Het kan hier gevonden worden: [TINCGR02-opdracht1 on Scratch](https://scratch.mit.edu/projects/761952273/)
 
 ### Opdracht 2
 Opdracht 2 is geschreven in C++. In deze opdracht moeten kleuren in RGB naar CMY en HSL en terug omgezet worden.
